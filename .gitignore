@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.metaflow/
+.venv/
+.venv-full/
+.venv-scgpt/
+runs/
+datasets/*.csv.gz
+!datasets/manifest.csv
+!datasets/tasks.csv
+!datasets/zsp_pairs.csv

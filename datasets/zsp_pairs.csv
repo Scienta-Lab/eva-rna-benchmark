@@ -1,0 +1,85 @@
+pair_id,dataset_id,disease,intervention,expected_efficacy,target_gene_symbols,target_gene_ids,directions
+atopic-dermatitis-amlitelimab,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Amlitelimab,true,TNFSF4,7292,-1
+atopic-dermatitis-bempikibart,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Bempikibart,false,IL7R,3575,-1
+atopic-dermatitis-brca2-ko,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",BRCA2 knockout,false,BRCA2,675,-1
+atopic-dermatitis-brodalumab,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Brodalumab,false,IL17RA,23765,-1
+atopic-dermatitis-crisaborole,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Crisaborole,true,PDE4,5141,-1
+atopic-dermatitis-dupilumab,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Dupilumab,true,IL4R,3566,-1
+atopic-dermatitis-egfr-ko,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",EGFR knockout,false,EGFR,1956,-1
+atopic-dermatitis-etanercept,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Etanercept,false,TNF,7124,-1
+atopic-dermatitis-etokimab,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Etokimab,false,IL33,90865,-1
+atopic-dermatitis-fingolimod,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Fingolimod,false,S1PR1|S1PR3|S1PR4|S1PR5,1901|1903|8698|53637,-1|-1|-1|-1
+atopic-dermatitis-guselkumab,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Guselkumab,false,IL23A,51561,-1
+atopic-dermatitis-nemolizumab,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Nemolizumab,true,IL31RA,133396,-1
+atopic-dermatitis-ozanimod,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Ozanimod,false,S1PR1|S1PR5,1901|53637,-1|-1
+atopic-dermatitis-pten-ko,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",PTEN knockout,false,PTEN,5728,-1
+atopic-dermatitis-rocatinlimab,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Rocatinlimab,true,OX40,7293,-1
+atopic-dermatitis-secukinumab,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Secukinumab,false,IL17A,112744,-1
+atopic-dermatitis-sod1-ko,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",SOD1 knockout,false,SOD1,6647,-1
+atopic-dermatitis-tapinarof,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Tapinarof,true,AHR,196,1
+atopic-dermatitis-tralokinumab,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Tralokinumab,true,IL13,3596,-1
+atopic-dermatitis-tubb-ko,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",TUBB knockout,false,TUBB,203068,-1
+atopic-dermatitis-upadacitinib,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Upadacitinib,true,JAK1,3716,-1
+atopic-dermatitis-vibozimod,rnadataset-skin-dermatitis_atopic,"Dermatitis, Atopic",Vibozimod,false,S1PR1,1901,-1
+crohn-afimkibart,rnadataset-ileum-crohn_disease,Crohn Disease,Afimkibart,true,TL1A,9966,-1
+crohn-brca2-ko,rnadataset-ileum-crohn_disease,Crohn Disease,BRCA2 knockout,false,BRCA2,675,-1
+crohn-egfr-ko,rnadataset-ileum-crohn_disease,Crohn Disease,EGFR knockout,false,EGFR,1956,-1
+crohn-etanercept,rnadataset-ileum-crohn_disease,Crohn Disease,Etanercept,true,TNF,7124,-1
+crohn-guselkumab,rnadataset-ileum-crohn_disease,Crohn Disease,Guselkumab,true,IL23A,51561,-1
+crohn-ozanimod,rnadataset-ileum-crohn_disease,Crohn Disease,Ozanimod,false,S1PR1|S1PR5,1901|53637,-1|-1
+crohn-pten-ko,rnadataset-ileum-crohn_disease,Crohn Disease,PTEN knockout,false,PTEN,5728,-1
+crohn-secukinumab,rnadataset-ileum-crohn_disease,Crohn Disease,Secukinumab,false,IL17A,112744,-1
+crohn-sod1-ko,rnadataset-ileum-crohn_disease,Crohn Disease,SOD1 knockout,false,SOD1,6647,-1
+crohn-tubb-ko,rnadataset-ileum-crohn_disease,Crohn Disease,TUBB knockout,false,TUBB,203068,-1
+crohn-upadacitinib,rnadataset-ileum-crohn_disease,Crohn Disease,Upadacitinib,true,JAK1,3716,-1
+hidradenitis-brca2-ko,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,BRCA2 knockout,false,BRCA2,675,-1
+hidradenitis-crisaborole,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,Crisaborole,true,PDE4,5141,-1
+hidradenitis-egfr-ko,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,EGFR knockout,false,EGFR,1956,-1
+hidradenitis-etanercept,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,Etanercept,true,TNF,7124,-1
+hidradenitis-guselkumab,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,Guselkumab,false,IL23A,51561,-1
+hidradenitis-ixekizumab,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,Ixekizumab,true,IL17A|IL17F,112744|112744,-1|-1
+hidradenitis-pten-ko,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,PTEN knockout,false,PTEN,5728,-1
+hidradenitis-secukinumab,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,Secukinumab,true,IL17A,112744,-1
+hidradenitis-sod1-ko,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,SOD1 knockout,false,SOD1,6647,-1
+hidradenitis-tubb-ko,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,TUBB knockout,false,TUBB,203068,-1
+hidradenitis-upadacitinib,rnadataset-skin-hidradenitis_suppurativa,Hidradenitis Suppurativa,Upadacitinib,true,JAK1,3716,-1
+psoriasis-brca2-ko,rnadataset-skin-psoriasis,Psoriasis,BRCA2 knockout,false,BRCA2,675,-1
+psoriasis-brodalumab,rnadataset-skin-psoriasis,Psoriasis,Brodalumab,true,IL17RA,23765,-1
+psoriasis-crisaborole,rnadataset-skin-psoriasis,Psoriasis,Crisaborole,true,PDE4,5141,-1
+psoriasis-dupilumab,rnadataset-skin-psoriasis,Psoriasis,Dupilumab,false,IL4R,3566,-1
+psoriasis-egfr-ko,rnadataset-skin-psoriasis,Psoriasis,EGFR knockout,false,EGFR,1956,-1
+psoriasis-etanercept,rnadataset-skin-psoriasis,Psoriasis,Etanercept,true,TNF,7124,-1
+psoriasis-guselkumab,rnadataset-skin-psoriasis,Psoriasis,Guselkumab,true,IL23A,51561,-1
+psoriasis-ixekizumab,rnadataset-skin-psoriasis,Psoriasis,Ixekizumab,true,IL17A|IL17F,112744|112744,-1|-1
+psoriasis-pten-ko,rnadataset-skin-psoriasis,Psoriasis,PTEN knockout,false,PTEN,5728,-1
+psoriasis-secukinumab,rnadataset-skin-psoriasis,Psoriasis,Secukinumab,true,IL17A,112744,-1
+psoriasis-sod1-ko,rnadataset-skin-psoriasis,Psoriasis,SOD1 knockout,false,SOD1,6647,-1
+psoriasis-tapinarof,rnadataset-skin-psoriasis,Psoriasis,Tapinarof,true,AHR,196,1
+psoriasis-tubb-ko,rnadataset-skin-psoriasis,Psoriasis,TUBB knockout,false,TUBB,203068,-1
+psoriatic-arthritis-brca2-ko,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",BRCA2 knockout,false,BRCA2,675,-1
+psoriatic-arthritis-crisaborole,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",Crisaborole,true,PDE4,5141,-1
+psoriatic-arthritis-egfr-ko,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",EGFR knockout,false,EGFR,1956,-1
+psoriatic-arthritis-etanercept,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",Etanercept,true,TNF,7124,-1
+psoriatic-arthritis-guselkumab,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",Guselkumab,true,IL23A,51561,-1
+psoriatic-arthritis-ixekizumab,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",Ixekizumab,true,IL17A|IL17F,112744|112744,-1|-1
+psoriatic-arthritis-pten-ko,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",PTEN knockout,false,PTEN,5728,-1
+psoriatic-arthritis-secukinumab,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",Secukinumab,true,IL17A,112744,-1
+psoriatic-arthritis-sod1-ko,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",SOD1 knockout,false,SOD1,6647,-1
+psoriatic-arthritis-tubb-ko,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",TUBB knockout,false,TUBB,203068,-1
+psoriatic-arthritis-upadacitinib,rnadataset-skin-psoriasis,"Arthritis, Psoriatic",Upadacitinib,true,JAK1,3716,-1
+ulcerative-colitis-bempikibart,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",Bempikibart,true,IL7R,3575,-1
+ulcerative-colitis-brca2-ko,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",BRCA2 knockout,false,BRCA2,675,-1
+ulcerative-colitis-egfr-ko,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",EGFR knockout,false,EGFR,1956,-1
+ulcerative-colitis-etanercept,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",Etanercept,true,TNF,7124,-1
+ulcerative-colitis-fingolimod,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",Fingolimod,true,S1PR1|S1PR3|S1PR4|S1PR5,1901|1903|8698|53637,-1|-1|-1|-1
+ulcerative-colitis-guselkumab,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",Guselkumab,true,IL23A,51561,-1
+ulcerative-colitis-obefazimod,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",Obefazimod,true,MIR124-1,406907,-1
+ulcerative-colitis-ozanimod,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",Ozanimod,true,S1PR1|S1PR5,1901|53637,-1|-1
+ulcerative-colitis-pten-ko,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",PTEN knockout,false,PTEN,5728,-1
+ulcerative-colitis-rituximab,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",Rituximab,false,CD20,931,-1
+ulcerative-colitis-rocatinlimab,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",Rocatinlimab,false,OX40,7293,-1
+ulcerative-colitis-sod1-ko,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",SOD1 knockout,false,SOD1,6647,-1
+ulcerative-colitis-tralokinumab,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",Tralokinumab,false,IL13,3596,-1
+ulcerative-colitis-tubb-ko,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",TUBB knockout,false,TUBB,203068,-1
+ulcerative-colitis-upadacitinib,rnadataset-colon-colitis_ulcerative,"Colitis, Ulcerative",Upadacitinib,true,JAK1,3716,-1
+
